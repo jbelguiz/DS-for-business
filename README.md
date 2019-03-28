@@ -1,7 +1,3 @@
-EPFL
+Repository of Julien Belguise for the course : Data Science for Business at the Swiss Federal Institute of Technology in Lausanne (EPFL)
 
-
-Repository of Julien Belguise
-
-Course : Data Science for Business
-
+Every notebooks are coded in python
